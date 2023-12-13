@@ -359,7 +359,7 @@ Partial Class Form1
         ' 
         Textbox_Algorithm.BackColor = Color.White
         Textbox_Algorithm.Font = New Font("Segoe UI Historic", 14.25F, FontStyle.Regular, GraphicsUnit.Point)
-        Textbox_Algorithm.Location = New Point(312, 22)
+        Textbox_Algorithm.Location = New Point(327, 20)
         Textbox_Algorithm.Multiline = True
         Textbox_Algorithm.Name = "Textbox_Algorithm"
         Textbox_Algorithm.ReadOnly = True
